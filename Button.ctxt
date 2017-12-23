@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\n\ Button\ -\ creates\ a\ button\ for\ game\ to\ start.\ \n\ \n\ @AyeshaBhutto\ \n\ @March/25/2017\n
+comment1.params=
+comment1.target=Button()
+comment2.params=
+comment2.target=void\ buttonOff()
+numComments=3

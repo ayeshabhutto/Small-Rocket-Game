@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\n\ Bullet\ -\ allows\ and\ creates\ bullets\ for\ the\ rocket\ to\ shoot\ out.\ \n\ \n\ @AyeshaBhutto\ \n\ @March/25/2017\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=direction
+comment2.target=Bullet(int)
+numComments=3

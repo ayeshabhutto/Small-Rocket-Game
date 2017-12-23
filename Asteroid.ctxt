@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Asteroid
+comment0.text=\n\ Asteroid\ -\ creates\ an\ asteroid\ for\ Rocket\ to\ hit\ .\n\ \n\ @AyeshaBhutto\ \n\ @March/25/2017\n
+comment1.params=
+comment1.target=Asteroid()
+comment2.params=sizeIn
+comment2.target=Asteroid(int)
+comment3.params=
+comment3.target=void\ sizeImage()
+comment4.params=scaleFactor
+comment4.target=void\ scaleSize(double)
+comment5.params=
+comment5.target=void\ act()
+numComments=6

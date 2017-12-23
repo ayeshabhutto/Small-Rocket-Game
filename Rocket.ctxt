@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Rocket
+comment0.text=\n\ Rocket\ -\ creates\ rocket\ actor\ to\ move\ with\ keybaord\ keys.\ \n\ \n\ @AyeshaBhutto\ \n\ @March/25/2017\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2
